@@ -34,7 +34,7 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Custom icons
+# New features
 --------------------------------------------------------------*/
 .custom-web {
   background-image: url("assets/img/icon.png");
@@ -47,6 +47,19 @@ h6 {
   background-size: contain;
   width: 20px;
   height: 20px;
+}
+
+.portfolio-details-container {
+  max-width: 1000px; /* Ajustar el ancho máximo al que desees */
+  margin: 0 auto; /* Centrar el contenedor en la página */
+}
+
+.demo-video {
+  width: 100%; /* Hacer que el video ocupe todo el ancho del contenedor */
+}
+
+.portfolio-description-es {
+  text-align: left; /* Alinear el texto a la izquierda */
 }
 
 /*--------------------------------------------------------------
