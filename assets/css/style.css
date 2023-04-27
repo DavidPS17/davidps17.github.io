@@ -64,22 +64,32 @@ h6 {
 }
 
 #about {
-  background-color: #ffffff; /* Reemplaza este valor con el color de fondo que desees */
+  background-color: #ffffff;
 }
 #softskills {
-  background-color: #eeeeee; /* Reemplaza este valor con el color de fondo que desees */
+  background-color: #eeeeee;
 }
 #skills {
-  background-color: #ffffff; /* Reemplaza este valor con el color de fondo que desees */
+  background-color: #ffffff;
 }
 #portfolio {
-  background-color: #eeeeee; /* Reemplaza este valor con el color de fondo que desees */
+  background-color: #eeeeee;
 }
 #contact {
-  background-color: #000000; /* Reemplaza este valor con el color de fondo que desees */
+  background-color: #000000;
 }
 
 .white-text {
+  color: white;
+}
+
+#btn-download {
+  display: block;
+  margin: 0 auto;
+  font-size: 24px;
+  width: 200px;
+  height: 60px;
+  background-color: #0563bb;
   color: white;
 }
 
