@@ -84,7 +84,19 @@ h6 {
   background-color: #0563bb;
   color: white;
 }
+#home {
+  min-height: 100vh;
+}
 
+#home .row {
+  gap: 2rem; /* Espacio entre columnas */
+}
+
+.carousel-inner img {
+  object-fit: cover;
+  height: 100%;
+  border-radius: 1rem;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
